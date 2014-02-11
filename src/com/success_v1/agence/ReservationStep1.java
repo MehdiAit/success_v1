@@ -32,7 +32,7 @@ public class ReservationStep1 extends Activity{
 	String dateRetour;
 	Button btnAgenceDepart;
 	String nomAgence;
-	/***********************************dsdsdsssssssssssssssssssssssssss**********************/
+	/***********************************Met moi chef :D**********************/
 	String date;
 	RadioGroup radioGroup;
 	private Button btnDateDepart;
